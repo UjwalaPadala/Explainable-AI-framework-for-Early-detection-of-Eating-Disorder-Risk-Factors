@@ -1,0 +1,2 @@
+# Explainable-AI-framework-for-Early-detection-of-Eating-Disorder-Risk-Factors
+An AI-driven, sustainable framework for early detection of eating disorder risk factors using behavioral, cognitive, and demographic data. The system applies machine learning with robust preprocessing, stratified cross-validation, and SHAP-based explainability to support transparent and reliable mental health risk assessment.
